@@ -17,7 +17,7 @@ simple to use. Note that this project uses a well-known Telegram-bot of its time
 
 Can be found on telegram as [PPQ•𝒜𝓃𝑔𝒾𝓃𝒷𝒶𝓇𝒶𝓉❅](https://t.me/hanyafatur).
 
-Join the [Group Support](https://t.me/caritemanhidop) if you just want to stay in the loop about new features or announcements.
+Join the [Group Support](https://t.me/IoTeXGroup_ID) if you just want to stay in the loop about new features or announcements.
 
 ## Credits
 
