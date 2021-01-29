@@ -63,18 +63,20 @@ from ubotindo.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-Hey KIMAKS! my name is *{dispatcher.bot.first_name}*.
-GUA HADIR UNTUK MELINDUNGI KAUM WANITA DARI COWO SANGE ONLINE? use /help
+Hello there! my name is *{dispatcher.bot.first_name}*.
+This community is for Indonesian IoTeX supporters.
+Official channel: https://t.me/IoTeXGroup
+Announcement channel: https://t.me/iotexchannel? use /help
 
-Join Our [CTH](https://t.me/caritemanhidop) UNTUK REPORT COWO SANGE ONLINE🙂
+Join Our [IoTeX](https://t.me/IoTeXGroup_ID) FOR ASK ABOUT IoTeX🙂
 
-Tambahin gua ke grup elu dan kasih akses admin!
-SIAP MEMBASMI COWO SANGE ☠️:
+Add me to your group and make me admin!
+CAN HELP YOU :
 
-• follow my instagram.         • @luphkoala
-• Media Partners.   • CARI TEMAN HIDUP
+• follow twitter.         • @iotex_io
+• Media Partners.   • IoteXGroup
 
-*Managed With ❤️ By :* [KOALA](https://t.me/mixiologist)
+*Managed With ❤️ By :* [PPQ•𝒜𝓃𝑔𝒾𝓃𝒷𝒶𝓇𝒶𝓉❅](https://t.me/hanyafatur)
 
 Wanna Add me to your Group? Just click the button below!
 """
@@ -85,7 +87,7 @@ buttons = [
             text="Add to Group 👥", url="t.me/userbotindobot?startgroup=true"
         ),
         InlineKeyboardButton(
-            text="Gban Logs 🚫", url="https://t.me/megazordlogs"
+            text="Gban Logs 🚫", url="https://t.me/iotexlogs"
         ),
     ]
 ]
@@ -98,7 +100,7 @@ buttons += [
             url=f"t.me/{dispatcher.bot.username}?start=help",
         ),
         InlineKeyboardButton(
-            text="Support Group 🐨", url="https://t.me/caritemanhidop"
+            text="Support Group ", url="https://t.me/IoTeXGroup_ID"
         ),
     ]
 ]
@@ -107,10 +109,10 @@ buttons += [
     [
         InlineKeyboardButton(
             text="MY INSTAGRAM 🌐",
-            url="https://instagram.com/luphkoala?igshid=1f6xnjrgraj20"
+            url="https://instagram.com/faturpatue?igshid=jg2pd8kb53w8"
         ),
         InlineKeyboardButton(
-            text="Support Channel CTH 🐨", url="https://t.me/joinchat/V1ngSuLIShi08cq_"
+            text="Support Channel IoTeX", url="https://t.me/IoTeXINDONESIA"
         ),
     ]
 ]
