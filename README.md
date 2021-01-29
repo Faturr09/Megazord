@@ -15,7 +15,7 @@ A modular telegram Python bot running on python3 with sqlalchemy database.
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and
 simple to use. Note that this project uses a well-known Telegram-bot of its time @BanhammerMarie_bot from Paul Larson as its base.
 
-Can be found on telegram as [KOALA](https://t.me/mixiologist).
+Can be found on telegram as [PPQ•𝒜𝓃𝑔𝒾𝓃𝒷𝒶𝓇𝒶𝓉❅](https://t.me/hanyafatur).
 
 Join the [Group Support](https://t.me/caritemanhidop) if you just want to stay in the loop about new features or announcements.
 
@@ -62,7 +62,7 @@ your other settings.
 It is recommended to import sample_config and extend the Config class, as this will ensure your config contains all
 defaults set in the sample_config, hence making it easier to upgrade.
 
-Alternatively, [find me on telegram](https://t.me/mixiologist)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/hanyafatur)! (Keep all support questions in the support chat, where more people can help you.)
 
 To deploy me on heroku, use below button:
 
